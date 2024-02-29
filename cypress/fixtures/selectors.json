@@ -1,0 +1,13 @@
+{
+    "navigateWeekDays": ".page-nav__day",
+    "movieTime": ".movie-seances__time",
+    "buyingScheme": ".buying-scheme__wrapper",
+    "acceptinButton": ".acceptin-button",
+    "ticketConfirmationMessage": "Вы выбрали билеты",
+    "emailInput": "[for='email'] > .login__input",
+    "passwordInput": "[for='pwd'] > .login__input",
+    "loginButton": ".login__button",
+    "successMessage": "Администраторррская",
+    "errorMessage": "Ошибка авторизации"
+    
+  }
